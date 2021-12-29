@@ -6,7 +6,7 @@ Some notes:
 1. It should succeed in less than 10 epochs, so it is okay to change epochs= to 10, but nothing larger
 2. When it reaches 99% or greater it should print out the string "Reached 99% accuracy so cancelling training!"
 
-Solution logs:
+### Solution logs:
 Epoch 1/10
 60000/60000 [==============================] - 10s 175us/sample - loss: 0.2540 - acc: 0.9276
 Epoch 2/10
